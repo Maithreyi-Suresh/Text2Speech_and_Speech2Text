@@ -8,7 +8,6 @@ This project focuses on converting spoken language to text (Speech-to-Text) and 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This project demonstrates the use of machine learning and natural language processing (NLP) techniques to build applications for speech recognition and synthesis. The goal is to create a system that can transcribe spoken words into written text and generate speech from text inputs.
