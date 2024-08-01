@@ -64,5 +64,3 @@ We welcome contributions to enhance the functionality and accuracy of the projec
 4. Push to the branch: `git push origin feature-branch`
 5. Submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
